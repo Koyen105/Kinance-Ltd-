@@ -89,8 +89,8 @@ Here’s the updated code for Kinance Ltd. that incorporates all the details you
         </section>
         <section id="contact" class="main">
             <h2>Contact Us</h2>
-            <p>Email: info@kinance.com</p>
-            <p>Phone: (123) 456-7890</p>
+            <p>Email: kinanceloan@gmail.com</p>
+            <p>Phone: + (675) 8290 6329</p>
             <p>Address: 123 Financial Street, Capital City</p>
         </section>
     </div>
